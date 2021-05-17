@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "version": "14.16.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u0016echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Ryan Mooney",
+  "license": "MIT"
+}
